@@ -189,8 +189,5 @@ func main() {
 
 	c.Bruter.Wait()
 
-	fmt.Println("\nAll tasks completed, press Ctrl-C to quit.")
-
-	// Wait forever ...
-	select {}
+	fmt.Println("\nAll tasks completed.")
 }
