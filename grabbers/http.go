@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 
-	xray "github.com/evilsocket/xray"
+	xray "github.com/frapava98/xray"
 
 	"golang.org/x/net/html"
 )
