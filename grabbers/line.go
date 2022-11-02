@@ -6,7 +6,7 @@ import (
 	"net"
 	"strings"
 
-	xray "github.com/evilsocket/xray"
+	xray "github.com/frapava98/xray"
 )
 
 type LineGrabber struct {
