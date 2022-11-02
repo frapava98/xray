@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/evilsocket/xray"
-	"github.com/evilsocket/xray/grabbers"
+	"github.com/frapava98/xray"
+	"github.com/frapava98/xray/grabbers"
 
 	"github.com/bobesa/go-domain-util/domainutil"
 	"github.com/gin-gonic/contrib/static"
