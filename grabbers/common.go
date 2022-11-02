@@ -1,6 +1,6 @@
 package grabbers
 
-import xray "github.com/evilsocket/xray"
+import xray "github.com/frapava98/xray"
 
 func Init() {
 	xray.SetupGrabbers(
