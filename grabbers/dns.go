@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/evilsocket/xray"
+	"github.com/frapava98/xray"
 	"github.com/miekg/dns"
 )
 
