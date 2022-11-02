@@ -1,4 +1,4 @@
-module github.com/evilsocket/xray
+module github.com/frapava98/xray
 
 go 1.18
 
